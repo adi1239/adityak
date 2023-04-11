@@ -1,7 +1,10 @@
-<html> 
+<html lang="en"> 
+
+<head> 
+<meta content="width=device-width,initial-scale=1.0"> 
 
 <title> Aditya Kamarusu </title>
-<head> 
+
 </head>
 <body>
 <h1>Hi! Welcome to my Webpage</h1> 
@@ -10,7 +13,7 @@
 
 
 <br>
-<p>I am a Senior Software Systems Engineer with 8+ years of Experience in Programming, Network Protocols Testing, Team Management and Project Management.</p>
+<p>I am a Senior Software Systems Engineer with 8+ years of Experience in Programming, Network Protocol Testing, Team Management and Project Management.</p>
   <p><i><b>Vocational interests:</b></i></p>
 <ul>
 <li>Design and Architect of Connected Devices</li>
