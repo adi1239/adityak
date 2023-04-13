@@ -11,10 +11,10 @@
 <h1 style="background-color:brown;color:white;padding:25px;text-align:center;font-family:Segoe Script">Hello!
 </h1>
 <nav style="text-align:center;font-family:Segoe UI Emoji">
-<a style="padding:0 10px 0 10px;"href="/html/">Home</a> |
-<a style="padding:0 10px 0 10px;"href="/css/">Experience</a> |
-<a style="padding:0 10px 0 10px;"href="/js/">Projects</a> |
-<a style="padding:0 10px 0 10px;"href="/python/">Publications</a>
+<a style="padding:0 10px 0 10px;" href="/html/">Home</a> |
+<a style="padding:0 10px 0 10px;" href="/css/">Experience</a> |
+<a style="padding:0 10px 0 10px;" href="/js/">Projects</a> |
+<a style="padding:0 10px 0 10px;" href="/python/">Publications</a>
 </nav>
 <div style="width:40%;float:left;">
 
