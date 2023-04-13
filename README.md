@@ -19,11 +19,13 @@
 <div style="width:40%;float:left;">
 
  <img src="https://freepngimg.com/thumb/dexters_laboratory/30617-6-dexters-laboratory-free-download.png" alt="Girl in a jacket" width="95%" height="30%" style="padding:15% 3% 0 3%"> 
+ <h1>Aditya Kamarusu</h1>
+ <h3 style="text-color:grey;"> Software Systems Engineer III </h3>
 </div>
 
 <div style="width:60%;float:right; padding:5%">
  
-<h3> My Name is Aditya Kamarusu </h3>
+<h3>Biography</h3>
   
 
 
