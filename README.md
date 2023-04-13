@@ -7,8 +7,8 @@
 <title> Aditya Kamarusu </title>
 
 </head>
-<body style="background-color:black; font-family:courier; text-color:white">
-<h1>Hi! Welcome to my Webpage</h1> 
+<body style="background-color:#fffff0; font-family:sans-serif; color:black">
+<h1 style="background-color:brown;color:white;padding:25px;text-align:center">Hi! Welcome to my Webpage</h1> 
 <h3> My Name is Aditya Kamarusu </h3>
   
 
