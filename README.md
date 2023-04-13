@@ -21,7 +21,7 @@
  <img src="https://freepngimg.com/thumb/dexters_laboratory/30617-6-dexters-laboratory-free-download.png" alt="Girl in a jacket" width="95%" height="50%" style="padding:15% 3% 0 3%"> 
 </div>
 
-<div style="width:60%;float:right;">
+<div style="width:60%;float:right; padding:10%">
  
 <h3> My Name is Aditya Kamarusu </h3>
   
