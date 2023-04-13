@@ -18,7 +18,7 @@
 </nav>
 <div style="width:40%;float:left;">
 
- <img src="https://www.shutterstock.com/image-vector/womens-zipup-trimmed-bomber-jacket-600w-2163679021.jpg" alt="Girl in a jacket" width="95%" height="50%" style="padding:15% 3% 0 3%"> 
+ <img src="https://freepngimg.com/thumb/dexters_laboratory/30617-6-dexters-laboratory-free-download.png" alt="Girl in a jacket" width="95%" height="50%" style="padding:15% 3% 0 3%"> 
 </div>
 
 <div style="width:60%;float:right;">
