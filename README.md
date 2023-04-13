@@ -7,7 +7,7 @@
 <title> Aditya Kamarusu </title>
 
 </head>
-<body style="background-color:black; font-family:calibri; font-color:white;">
+<body style="background-color:black; font-family:courier; font-color:white;">
 <h1>Hi! Welcome to my Webpage</h1> 
 <h3> My Name is Aditya Kamarusu </h3>
   
