@@ -19,7 +19,7 @@
 <div>
 <span style="width:40%;float:left;">
 
- <img src="https://freepngimg.com/thumb/dexters_laboratory/30617-6-dexters-laboratory-free-download.png" alt="Avatar" width="95%" height="auto" style="padding:15% 3% 0 3%;border-radius: 50%;border:1px;"> 
+ <img src="https://freepngimg.com/thumb/dexters_laboratory/30617-6-dexters-laboratory-free-download.png" alt="Avatar" width="95%" height="auto" style="padding:15% 3% 0 3%;border-radius: 50%;border-style:solid;border-width:2px;box-shadow:7px 7px 5px"> 
  <h1>Aditya Kamarusu</h1>
  <h3 style="text-color:grey;"> Software Systems Engineer III </h3>
 </span>
