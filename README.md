@@ -1,4 +1,4 @@
-<html lang="en-us"> 
+<html lang="en"> 
 
 
 <head> 
@@ -8,12 +8,25 @@
 
 </head>
 <body style="background-color:#fffff0; font-family:Segoe UI Emoji ; color:black">
-<h1 style="background-color:brown;color:white;padding:25px;text-align:center;font-family:Segoe Script">Hello!</h1> 
+<h1 style="background-color:brown;color:white;padding:25px;text-align:center;font-family:Segoe Script">Hello!
+</h1>
+<nav style="text-align:center;font-family:Segoe UI Emoji">
+<a style="padding:0 10px 0 10px;"href="/html/">Home</a> |
+<a style="padding:0 10px 0 10px;"href="/css/">Experience</a> |
+<a style="padding:0 10px 0 10px;"href="/js/">Projects</a> |
+<a style="padding:0 10px 0 10px;"href="/python/">Publications</a>
+</nav>
+<div style="width:40%;float:left;">
+
+ <img src="https://www.shutterstock.com/image-vector/womens-zipup-trimmed-bomber-jacket-600w-2163679021.jpg" alt="Girl in a jacket" width="95%" height="50%" style="padding:15% 3% 0 3%"> 
+</div>
+
+<div style="width:60%;float:right;">
+ 
 <h3> My Name is Aditya Kamarusu </h3>
   
 
 
-<br>
 <p>I am a Senior Software Systems Engineer with 8+ years of Experience in Programming, Network Protocol Testing, Team Management and Project Management.</p>
   <p><i><b>Vocational interests:</b></i></p>
 <ul>
@@ -21,7 +34,6 @@
 <li>Solutions to Cloud and Large Connected Network Devices </li>
 <li>Develop tools/utilities for Monitoring Network elements </li>
   </ul>
-  <br>
   <p><i><b> Fields of Interest:</b></i> </p>
  <ul>
  <li>  Computer Networking </li>
@@ -31,7 +43,7 @@
    <li> Programming </li>
    
  </ul>
-
+</div>
 
 </body>
 </html>
