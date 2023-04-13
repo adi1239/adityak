@@ -16,15 +16,15 @@
 <a style="padding:0 10px 0 10px;" href="/js/">Projects</a> |
 <a style="padding:0 10px 0 10px;" href="/python/">Publications</a>
 </nav>
-<div>
-<span style="width:40%;float:left;">
 
- <img src="https://freepngimg.com/thumb/dexters_laboratory/30617-6-dexters-laboratory-free-download.png" alt="Avatar" width="50%" height="30%" style="padding:15% 3% 0 3%;border-radius: 50%;border-style:solid;border-width:1px;box-shadow:2px 2px"> 
+<div style="width:40%;float:left;">
+
+ <img src="https://freepngimg.com/thumb/dexters_laboratory/30617-6-dexters-laboratory-free-download.png" alt="Avatar" width="50%" height="25%" style="padding:15% 3% 0 3%;border-radius: 100%/100%;border-style:solid;border-width:1px;box-shadow:1px 1px "> 
  <h1>Aditya Kamarusu</h1>
- <h3 style="text-color:grey;"> Software Systems Engineer III </h3>
-</span>
+ <h3 style="color:grey;"> Software Systems Engineer III </h3>
+</div>
 
-<span style="width:60%;float:right; padding:5%">
+<div style="width:60%;float:right; padding:5%">
  
 <h3>Biography</h3>
   
@@ -46,7 +46,7 @@
    <li> Programming </li>
    
  </ul>
-</span>
- </div>
+</div>
+
 </body>
 </html>
