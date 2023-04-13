@@ -3,11 +3,18 @@
 
 <head> 
 <meta content="width=device-width,initial-scale=1.0"> 
+  <link rel="stylesheet" type="text/css"
+    href="https://cdn.rawgit.com/dreampulse/computer-modern-web-font/master/fonts.css">
+<style>
+body {
+  font-family: "Computer Modern Sans", sans-serif;
+}
+</style>
 
 <title> Aditya Kamarusu </title>
 
 </head>
-<body style="background-color:#fffff0; font-family:sans-serif; color:black">
+<body style="background-color:#fffff0; color:black">
 <h1 style="background-color:brown;color:white;padding:25px;text-align:center">Hi! Welcome to my Webpage</h1> 
 <h3> My Name is Aditya Kamarusu </h3>
   
