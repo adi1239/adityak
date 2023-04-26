@@ -11,10 +11,10 @@
 <h1 style="background-color:brown;color:white;padding:25px;text-align:center;font-family:Segoe Script">Hello!
 </h1>
 <nav style="text-align:center;font-family:Segoe UI Emoji">
-<a style="padding:0 10px 0 10px;" href="/html/">Home</a> |
-<a style="padding:0 10px 0 10px;" href="/css/">Experience</a> |
-<a style="padding:0 10px 0 10px;" href="/js/">Projects</a> |
-<a style="padding:0 10px 0 10px;" href="/python/">Publications</a>
+<a style="padding:0 10px 0 10px;" href="home">Home</a> |
+<a style="padding:0 10px 0 10px;" href="experience">Experience</a> |
+<a style="padding:0 10px 0 10px;" href="projects">Projects</a> |
+<a style="padding:0 10px 0 10px;" href="publications">Publications</a>
 </nav>
 
 <div style="width:40%;float:left;">
@@ -24,6 +24,7 @@
  <h3 style="color:grey;"> Software Systems Engineer III </h3>
 </div>
 
+<section id="home">
 <div style="width:60%;float:right; padding:5%">
  
 <h3>Biography</h3>
@@ -47,6 +48,26 @@
    
  </ul>
 </div>
+</section>
 
+<section id="projects">
+<div style="width:60%;float:right; padding:5%">
+ 
+<h3>Projects</h3>
+  
+<p>
+<ul>
+<li> Web Crawler</li>
+<li> Network Socket Programming </li>
+<li> Client-Server model-Chat application </li>
+<li> Multiplayer game </li>
+</ul>
+</p>
+
+
+ 
+
+</div>
+</section>
 </body>
 </html>
