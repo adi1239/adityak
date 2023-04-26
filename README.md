@@ -13,7 +13,7 @@
 <nav style="text-align:center;font-family:Segoe UI Emoji">
 <a style="padding:0 10px 0 10px;" href="home">Home</a> |
 <a style="padding:0 10px 0 10px;" href="experience">Experience</a> |
-<a style="padding:0 10px 0 10px;" href="projects">Projects</a> |
+<a rel='noopener' target="_blank" style="padding:0 10px 0 10px;" href="#projects">Projects</a> |
 <a style="padding:0 10px 0 10px;" href="publications">Publications</a>
 </nav>
 
@@ -50,10 +50,10 @@
 </div>
 </section>
 
-<section id="projects">
+ <a id="projects"><h3>Projects</h3></a>
 <div style="width:60%;float:right; padding:5%">
  
-<h3>Projects</h3>
+
   
 <p>
 <ul>
