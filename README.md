@@ -4,7 +4,7 @@
 <head> 
 <meta content="width=device-width,initial-scale=1.0"> 
 
-<title> Aditya Kamarusu </title>
+<title> Aditya Kamarsu </title>
 
 </head>
 <body style="background-color:#fffff0; font-family:Segoe UI Emoji ; color:black">
